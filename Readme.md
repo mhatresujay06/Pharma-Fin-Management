@@ -30,3 +30,13 @@ Git is used to track changes in the project, while GitHub is used to store and m
 ## Conclusion
 
 This project demonstrates the use of Git and GitHub for version control and project management.
+
+## Finance Module
+
+The Finance Module will manage financial information in the pharmaceutical organization.
+
+Planned features:
+- Budget management
+- Expense tracking
+- Transaction records
+- Financial reports
